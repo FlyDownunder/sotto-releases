@@ -21,4 +21,8 @@ To **upgrade**, replace `Sotto.exe` and keep your `data\` folder. Sotto also tel
 
 The app isn't code-signed yet, so Windows SmartScreen may warn on first run. Click **More info**, then **Run anyway**.
 
-This repository only hosts releases. Sotto's source code is private.
+## About this repository
+
+This repository only hosts the downloads. Each release has one file, `Sotto-x.y.z-windows-x64.zip`, which contains just `Sotto.exe`, this guide and an empty `data` folder.
+
+Sotto's source code is private and is not here. GitHub adds "Source code (zip/tar.gz)" links to every release automatically; on this repository they contain only this README.
