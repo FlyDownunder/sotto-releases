@@ -8,6 +8,7 @@ Private, portable voice dictation for Windows. Everything runs on your own compu
 - **Voice activation:** say "Hey Sotto", or turn on always listening. It can learn your voice, so it ignores other people and videos.
 - **Command mode:** select text, hold `Ctrl+Win+Shift` and say "make this more formal" or "translate to Portuguese".
 - **Ask Sotto:** hold `Ctrl+Win+Alt`, ask anything, and hear the answer. Say "paste that" to insert it.
+- **New note:** say "new note" to open your own notes app (Notepad, VS Code, Obsidian, Notion...) with a fresh, dated note.
 - **Listen mode:** live summary, actions and facts from the calls, meetings and videos you're listening to. Nothing is recorded.
 
 ## Install
