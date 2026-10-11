@@ -4,9 +4,9 @@ Private, portable voice dictation for Windows. Everything runs on your own compu
 
 **[Download the latest version](https://github.com/FlyDownunder/sotto-releases/releases/latest)**
 
-- **Dictate anywhere:** hold `Ctrl+Win` and talk, release, and the text is typed where your cursor is. Filler words are removed and the text is cleaned up.
+- **Dictate anywhere:** hold `Ctrl+Win` and talk, release, and the text is typed where your cursor is. You see the words as you speak, and filler words are removed.
 - **Voice activation:** say "Hey Sotto", or turn on always listening. It can learn your voice, so it ignores other people and videos.
-- **Command mode:** select text, hold `Ctrl+Win+Shift` and say "make this more formal" or "translate to Portuguese".
+- **Command mode:** select text, hold `Ctrl+Win+Shift` and say "make this more formal" or "translate to Portuguese". The same shortcut opens apps and websites: "open VS Code", "go to cnn.com".
 - **Ask Sotto:** hold `Ctrl+Win+Alt`, ask anything, and hear the answer. Say "paste that" to insert it.
 - **New note:** say "new note" to open your own notes app (Notepad, VS Code, Obsidian, Notion...) with a fresh, dated note.
 - **Listen mode:** live summary, actions and facts from the calls, meetings and videos you're listening to. Nothing is recorded.
