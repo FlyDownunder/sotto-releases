@@ -10,6 +10,7 @@ Private, portable voice dictation for Windows. Everything runs on your own compu
 - **Ask Sotto:** hold `Ctrl+Win+Alt`, ask anything, and hear the answer. Say "paste that" to insert it.
 - **New note:** say "new note" to open your own notes app (Notepad, VS Code, Obsidian, Notion...) with a fresh, dated note.
 - **Listen mode:** live summary, actions and facts from the calls, meetings and videos you're listening to. Nothing is recorded.
+- **Lori, your meeting copilot:** in Listen mode, say "Lori, ..." to ask her about the meeting, get a suggested reply when someone says your name, or press **Help me say something**. She answers out loud with a natural local voice, using your own AI (Ollama, any OpenAI-compatible server, or a command line tool like Claude Code).
 
 ## Install
 
